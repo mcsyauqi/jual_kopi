@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     int hrgmisis=500;
     int hrgsusu=2000;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
